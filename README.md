@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Ryan Yang-Liu. I'm currently studying math/physics/cs at MIT.
+
 <!--
 **RyanYunruiYang/RyanYunruiYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
